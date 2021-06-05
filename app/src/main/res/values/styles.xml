@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="fontForNotificationLandingPage">fontsize</style>
+    <style name="font_Small">14sp</style>
+    <style name="font_Medium">18sp</style>
+    <style name="font_Big">22sp</style>
+
+</resources>
